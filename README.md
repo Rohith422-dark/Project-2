@@ -93,7 +93,7 @@ This project provides a **centralized digital platform** that integrates:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://rohith422-dark.github.io/Project-2/>
 ---
 2.Navigate to the project directory:
    ```bash
