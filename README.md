@@ -94,10 +94,17 @@ This project provides a **centralized digital platform** that integrates:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-2.Navigate to the project directory
+---
+2.Navigate to the project directory:
+   ```bash
   cd smart-community-health-monitoring
-3.Install dependencies
-  npm install
-4.Start the development server
-  npm run dev
+---
+3.Install dependencies:
+   ```bash
+   npm install
+---
+4.Start the development server:
+   ```bash
+   npm run dev
+---
   
