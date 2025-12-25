@@ -4,7 +4,7 @@ A smart, AI-enabled health surveillance platform designed to monitor water quali
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Water-borne diseases such as diarrhea, cholera, typhoid, and hepatitis A pose significant public health challenges, especially in rural and semi-urban regions. Delayed detection of contaminated water sources and lack of real-time health surveillance often result in large-scale outbreaks.
 
@@ -17,7 +17,7 @@ This project provides a **centralized digital platform** that integrates:
 
 ---
 
-## 🎯 Key Objectives
+## Key Objectives
 
 - Monitor water quality parameters and detect contamination early
 - Enable real-time reporting of health issues from communities
@@ -27,7 +27,7 @@ This project provides a **centralized digital platform** that integrates:
 
 ---
 
-## 🧩 System Modules
+## System Modules
 
 ### 1. Health Surveillance Dashboard
 - Real-time health reports and patient tracking
@@ -70,7 +70,7 @@ This project provides a **centralized digital platform** that integrates:
 
 ---
 
-## 🧠 AI & Analytics
+## AI & Analytics
 
 - Uses historical health data and water quality trends
 - Identifies early outbreak risks
@@ -79,7 +79,7 @@ This project provides a **centralized digital platform** that integrates:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
@@ -89,7 +89,7 @@ This project provides a **centralized digital platform** that integrates:
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. Clone the repository:
    ```bash
