@@ -98,13 +98,10 @@ This project provides a **centralized digital platform** that integrates:
 2.Navigate to the project directory:
    ```bash
   cd smart-community-health-monitoring
----
 3.Install dependencies:
    ```bash
    npm install
----
 4.Start the development server:
    ```bash
    npm run dev
----
   
