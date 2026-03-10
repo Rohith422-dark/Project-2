@@ -10,7 +10,7 @@ Water-borne diseases such as diarrhea, cholera, typhoid, and hepatitis A pose si
 
 This project provides a **centralized digital platform** that integrates:
 - Real-time water quality monitoring
-- Community health reporting
+- Community health report
 - AI-powered outbreak prediction
 - Emergency alert management
 - Health education and intervention tracking
